@@ -22,7 +22,7 @@
 
 ### Download
 
-⬇️ <a href="https://github.com/Peaky-XD/Peaky-Boomber/blob/main/base.apk?raw=true">Download</a> the latest version from releases.
+⬇️ <a href="https://github.com/Peaky-XD/ZIP-CRACKER/raw/main/base.apk">Download</a> the latest version from releases.
 
 <br>
 
