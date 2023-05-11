@@ -22,7 +22,7 @@
 
 ### Download
 
-⬇️ <a href="https://github.com/Peaky-XD/ZIP-CRACKER/raw/main/base.apk">Download</a> the latest version from releases.
+⬇️ <a href="https://github.com/Peaky-XD/ZIP-CRACKER/raw/main/Peaky%20Zip%20Cracker.apk">Download</a> the latest version from releases.
 
 <br>
 
